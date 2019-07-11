@@ -48,7 +48,7 @@ import UIKit
     @IBInspectable public var highlightInputUnderline: Bool = false
     
     //MARK: Customizable from code
-    public var keyboardType: UIKeyboardType = UIKeyboardType.alphabet
+    	
     public var keyboardAppearance: UIKeyboardAppearance = UIKeyboardAppearance.default
     public var autocorrectionType: UITextAutocorrectionType = UITextAutocorrectionType.no
     public var font: UIFont = UIFont.systemFont(ofSize: 14)
